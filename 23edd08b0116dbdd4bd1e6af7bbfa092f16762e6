@@ -1,0 +1,1 @@
+{"jobID":"c8ab1048-08df-4ae7-f1c2-09f62ab0cfd4","spec":{"type":"policy","cause":{"Message":"","User":"Ryan Kennedy \u003cryno75@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"tag.podinfod":"semver:\u003e3.1.0"},"remove":null}}},"result":null}
